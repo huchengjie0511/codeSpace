@@ -45,7 +45,7 @@ print(list_files('sample_data'));
 
 
 # 使用大模型进行数据处理
-!pip install pyautogen~=0.1.0  -q -U
+!pip install ag2~=0.1.0  -q -U
 
 # 配置多个大模型
 config_list=[{
